@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+    <libro>
+        <titulo>Paco en Pacolandia</titulo>
+        <autor>
+            <nombre>Paco</nombre>
+            <nacionalidad>Pacolandia</nacionalidad>
+        </autor>
+        <numPaginas>10</numPaginas>
+        <anioPublicacion>3</anioPublicacion>
+    </libro>
+    <libro>
+        <titulo>Paco en Pacolandia</titulo>
+        <autor>
+            <nombre>Paco</nombre>
+            <nacionalidad>Pacolandia</nacionalidad>
+        </autor>
+        <numPaginas>10</numPaginas>
+        <anioPublicacion>3</anioPublicacion>
+    </libro>
+    <libro>
+        <titulo>Paco en Pacolandia</titulo>
+        <autor>
+            <nombre>Paco</nombre>
+            <nacionalidad>Pacolandia</nacionalidad>
+        </autor>
+        <numPaginas>10</numPaginas>
+        <anioPublicacion>3</anioPublicacion>
+    </libro>
+    <libro>
+        <titulo>Paco en Pacolandia</titulo>
+        <autor>
+            <nombre>Paco</nombre>
+            <nacionalidad>Pacolandia</nacionalidad>
+        </autor>
+        <numPaginas>10</numPaginas>
+        <anioPublicacion>3</anioPublicacion>
+    </libro>
+    <libro>
+        <titulo>Paco en Pacolandia</titulo>
+        <autor>
+            <nombre>Paco</nombre>
+            <nacionalidad>Pacolandia</nacionalidad>
+        </autor>
+        <numPaginas>10</numPaginas>
+        <anioPublicacion>3</anioPublicacion>
+    </libro>
+</biblioteca>
